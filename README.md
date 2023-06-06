@@ -1,4 +1,4 @@
-## Olá, me chamo Francisco Anacleto e estou no 2° período de Análise e Desenvolvimento de Sistemas(ADS).
+## Olá, me chamo Francisco Anacleto e estou no 2° período de Análise e Desenvolvimento de Sistemas.
 
 Atualmente faço estágio na Secretaria Executiva de Tecnologia e Ciências de minha cidade.
 
