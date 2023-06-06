@@ -18,8 +18,8 @@ franciscoaalbuquerque" target="_blank"><img src="https://img.shields.io/badge/-L
 </div>
 
 <hr>
-<img alt="faalb" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=faalb&line_height=27&include_all_commits=true&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+<img alt="faalb" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=faalb&line_height=27&include_all_commits=true&show_icons=true&hide_border=true&theme=dark&count_private=true"/>
 <a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faalb&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faalb&theme=dark"/>
 </a>
 <hr>
