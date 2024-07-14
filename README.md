@@ -1,4 +1,4 @@
-## Olá! Me chamo Francisco Anacleto e estou no 2° período de Análise e Desenvolvimento de Sistemas.
+## Olá! Me chamo Francisco Anacleto e estou no 3° período de Análise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <a href="https://g.co/kgs/XwPpMh"><img align="center" alt="Faalb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
