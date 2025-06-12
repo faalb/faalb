@@ -1,6 +1,8 @@
 ### Olá  👋 Me chamo Francisco!
 - 🔭 Atualmente trabalho como Desenvolvedor no Grupo Ser Educacional. 
 - 🌱 Estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas.
+- 📫 Como me encontrar: franciscoaalbuquerque30@gmail.com
+  
 
 <div style="display: inline_block"><br>
   <a href="https://g.co/kgs/XwPpMh"><img align="center" alt="Faalb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
